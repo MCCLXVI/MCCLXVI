@@ -1,10 +1,11 @@
 # Howdyy 👋
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div align="center">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLXVI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLXVI&theme=dark" style="width: 48%; height: auto;"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLXVI&layout=compact&theme=dark" style="width: 48%; height: auto;"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLXVI&layout=compact&theme=dark)
 
 </div>
+
