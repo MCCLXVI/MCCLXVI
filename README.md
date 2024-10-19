@@ -1,7 +1,7 @@
 # Howdyy 👋
 
 
-<div align="center">
+<div align="center" text align "center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MCCLXVI&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
