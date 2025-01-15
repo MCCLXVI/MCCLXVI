@@ -1,5 +1,5 @@
 <h1 align="center">Ahoy👋, I'm MCCLXVI</h1>
-<h3 align="center">A noob :D</h3>
+<h3 align="center">Im a noob :D</h3>
 <p align="left">
 </p>
 
